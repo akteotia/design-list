@@ -1,19 +1,47 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Online Mockup Tools List"
+excerpt: "A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. "
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-12-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Freebies Mockup
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+- [Artboard Studio](https://artboard.studio/) — online graphic design application mainly focused on product mockups.
+- [Freebies Mockup](https://www.freebiesmockup.com/) — Download free popular graphic offered by Freebies Mockup can be used for personal and commercial purposes so you can include it in your clients' presentations.
+- [Photoshop PSD Mockups](https://www.photoshopvideotutorial.com/) — Using a freebies Photoshop PSD mockups is a great way to showcase your design in a professional and realistic way. It is also a great way to save money.
+- [Craftwork Design](https://craftwork.design/) — free and premium high-quality digital products that make your work faster and easier.
+- [Device Shots](https://deviceshots.com) — a tool that helps you create beautiful device mockups with the screenshot of your website or mobile application, for free.
+- [Devices by Facebook](https://facebook.design/devices) — images and Sketch files of popular devices. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Dimmy.club](https://dimmy.club/) — device mockup generator for your website and app screenshots.
+- [Frrames](https://frrames.com/) — Frrames mockups is perfectly crafted responsive windows mockups for your ideal presentation.
+- [Lstore Graphics](https://www.ls.graphics/) — free and premium mockups, UI/UX tools, scene creators for busy designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Mediamodifier](https://mediamodifier.com) — create impressive product mockups in seconds.
+- [Mockflow](https://www.mockflow.com/) — the quickest way to brainstorm user interface ideas.
+- [Mockup World](https://www.mockupworld.co/) — tons of free and legal, fully layered, easily customizable photo realistic PSDs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Mockuuups](https://mockuuups.studio/) — drag-and-drop tool for creating beautiful app previews or any marketing materials.
+- [Mock Video](https://www.mock.video/) — instantly create mockups by adding a device frame to your videos.
+- [Moqups](https://moqups.com/) — helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.
+- [Original Mockups](https://originalmockups.com/) — high-quality mockups for Photoshop that make your designs stand out.
+- [Overframe for Mac](https://overframe.xyz/) — record your prototype & app with device frame overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [PixelBuddha](https://pixelbuddha.net/) — free and premium high-quality resources for web designers and developers.
+- [Ramotion Store](https://store.ramotion.com/) — carefully crafted Apple and Android mockups for Sketch and Photoshop.
+- [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [SceneLab](https://scenelab.io) — create realistic mockups and customized brand designs online.
+- [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
+- [Screenzy](https://screenzy.io) — instantly transform your pictures and screenshots into beautiful mockups ready to be shared on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Screeener](https://github.com/zehfernandes/screeener) — use this app to insert a bunch of images to a keynote file, using the mockup you choose.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
+- [shotsnapp](https://shotsnapp.com/) — create beautiful device mockup presentation for your digital app and website design.
+- [The Mockup Club](https://themockup.club/) — a directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Threed](http://threed.io/) — generate custom 3D Device Mockups in your Browser.
+- [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [UI8 — Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
